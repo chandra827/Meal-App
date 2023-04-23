@@ -7,7 +7,7 @@
 * you can also remove food from your favourite meal list.
 
 
-Github Link -: 
+Github Link -: https://github.com/chandra827/Meal-App
 
 Hosting Link -: https://chandra827.github.io/Meal-App/
 
