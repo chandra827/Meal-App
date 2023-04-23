@@ -9,7 +9,7 @@
 
 Github Link -: 
 
-Hosting Link -: 
+Hosting Link -: https://chandra827.github.io/Meal-App/
 
 
 
