@@ -12,10 +12,9 @@ Github Link -:
 Hosting Link -: 
 
 
-
 Note -: Changes are possible in future
 
-<h2>Create By Chandra Shehar.</h2>
+<h2>Create By Chandra Shekhar.</h2>
 
 If you like this then please give a star.
 
